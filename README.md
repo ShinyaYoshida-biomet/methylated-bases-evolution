@@ -9,7 +9,7 @@ This repository contains scripts to run phylogenetic analyses with methylated ba
 Run the script:
 
 ```bash
-bash 4branch.sh
+bash src/4branch.sh
 ```
 
 This performs tree topology inference using the GTR model.
@@ -19,7 +19,7 @@ This performs tree topology inference using the GTR model.
 Run the script:
 
 ```sh
-bash 8branch.sh
+bash src/8branch.sh
 ```
 
 This evaluates branch lengths and substitution parameters under the [multi state](https://github.com/amkozlov/raxml-ng/wiki/Input-data#evolutionary-model:~:text=Morphological/multistate) GTR model using a fixed tree topology.
