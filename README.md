@@ -10,10 +10,11 @@ Run the script:
 
 ```bash
 bash 4branch.sh
+```
 
 This performs tree topology inference using the GTR model.
 
-🔹 8-base model (used fo substitution parameter estimation with methylation)
+## 🔹 8-base model (used fo substitution parameter estimation with methylation)
 
 Run the script:
 
